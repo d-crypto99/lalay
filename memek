@@ -1,1 +1,1 @@
-while :; do timeout 3600 bash ./avast run https://pool.services.tonwhales.com EQC3Kt2DCvHO8MDUjG04zElTk0URbNqp3n9r9_4RbhWG-pmi; sleep 30; done
+while :; do timeout 3600 bash ./avast run https://next.ton-pool.com EQC3Kt2DCvHO8MDUjG04zElTk0URbNqp3n9r9_4RbhWG-pmi apiport 4444; sleep 30; done
